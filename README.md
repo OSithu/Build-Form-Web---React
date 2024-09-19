@@ -1,6 +1,6 @@
-# Build Form - Form Editor
+# Build Yor Own Form - Form Editor
 
-Welcome to **Build Form**, a simple React-based Form Editor that allows users to create and preview their forms in real-time. This project enables the addition of customizable fields (like emails) and reflects changes instantly on the form preview section.
+Welcome to **Build Yor Own Form**, a simple React-based Form Editor that allows users to create and preview their forms in real-time. This project enables the addition of customizable fields (like emails) and reflects changes instantly on the form preview section.
 
 ## Features
 
