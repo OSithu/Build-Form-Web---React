@@ -1,8 +1,13 @@
-# React + Vite
+# Build Form - Form Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Build Form**, a simple React-based Form Editor that allows users to create and preview their forms in real-time. This project enables the addition of customizable fields (like emails) and reflects changes instantly on the form preview section.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Form Creation**: Add multiple email fields and preview them in real-time.
+- **Real-Time Validation**: Emails are validated as they are entered.
+- **Live Preview**: See the updates instantly as you edit the form title, description, image, and fields.
+
+## Live Demo
+
+You can view the live demo of the application at: [Hosted At: ](https://oshbuildform.netlify.app)
